@@ -34,3 +34,5 @@ Contributions, issues, and feature requests are welcome! If you have suggestions
 
 ## License
 No licence
+
+Enjoy exploring the life and contributions of Dr. B.R. Ambedkar! 🌟
