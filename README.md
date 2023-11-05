@@ -10,7 +10,7 @@ Welcome to the "Dr. B.R. Ambedkar: A Visionary and Leader" repository! This proj
 - Educational insights on his views on the importance of education and social reforms.
 - Interactive search functionality for quick access to relevant content.
 - A notice about the project's educational purpose and content sources.
--**Donate Button:** Directly send money through UPI to support the project.
+- **Donate Button:** Directly send money through UPI to support the project.
 
 ## Notice
 
