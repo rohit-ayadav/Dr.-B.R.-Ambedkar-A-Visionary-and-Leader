@@ -10,6 +10,7 @@ Welcome to the "Dr. B.R. Ambedkar: A Visionary and Leader" repository! This proj
 - Educational insights on his views on the importance of education and social reforms.
 - Interactive search functionality for quick access to relevant content.
 - A notice about the project's educational purpose and content sources.
+-**Donate Button:** Directly send money through UPI to support the project.
 
 ## Notice
 
@@ -23,6 +24,10 @@ Explore the project live: [Dr. B.R. Ambedkar Tribute](https://rohit-ayadav.githu
 ## Usage
 
 Feel free to explore the different sections of the project to learn more about Dr. B.R. Ambedkar's life and contributions. Use the search functionality for quick access to specific content.
+
+## Donate
+
+Show your support by contributing to the project. Click the [Donate button](upi://pay?pa=rohitkuyada@oksbi&pn=Rohit%20kumar%20yadav&aid=uGICAgIDnwr-4Ug) to send money directly through UPI.
 
 ## Contributions
 
