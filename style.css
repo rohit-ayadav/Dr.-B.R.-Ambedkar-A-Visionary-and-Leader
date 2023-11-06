@@ -213,6 +213,8 @@ figure {
   border: 0px #cccccc solid;
   padding: 4px;
   margin: auto;
+  display: flex;
+  flex-direction: column;
 }
 
 figcaption {
